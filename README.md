@@ -7,8 +7,12 @@
 - 😊 Apaixonado por tecnologia e pela Linguagem Java
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiano-santos&show_icons=true&theme=transparent"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-santos&layout-compact&langs_count=16&theme=transparent"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=cristiano-santos" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiano-santos&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 
 
