@@ -9,6 +9,8 @@
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiano-santos&show_icons=true&theme=transparent"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-santos&layout-compact&langs_count=16&theme=transparent"/>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
