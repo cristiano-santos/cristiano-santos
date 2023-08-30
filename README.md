@@ -1,8 +1,8 @@
 ### Olá Eu sou o Cristiano Santos
 
 
-- 🔭 Atualmente estou trabalhando na area de Logistica
-- 🌱 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas
+- 📋 Atualmente estou trabalhando na area de Logistica
+- 📚 Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas
 - 👀 Tenho interesse por desenvolvimento de sistemas desktop e web
 - 😊 Apaixonado por tecnologia e pela Linguagem Java
 
